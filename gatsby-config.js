@@ -9,7 +9,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `@lekoarts/gatsby-theme-minimal-blog`,
+      resolve: ``,
       // See the theme's README for all available options
       options: {
         navigation: [
