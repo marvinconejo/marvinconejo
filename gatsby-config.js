@@ -14,7 +14,7 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `Blog`,
+            title: `Blog Azure with Marvin`,
             slug: `/blog`,
           },
           {
